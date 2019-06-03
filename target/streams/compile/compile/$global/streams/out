@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/will/workspace/RockPaperSciccorsPlusTwo/src/main/scala/twirl/home.scala.html:4:2: not found: value form[0m
+[0m[[0m[31merror[0m] [0m[0m@form(route.home) {[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/will/workspace/RockPaperSciccorsPlusTwo/src/main/scala/twirl/home.scala.html:4:7: not found: value route[0m
+[0m[[0m[31merror[0m] [0m[0m@form(route.home) {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/will/workspace/RockPaperSciccorsPlusTwo/src/main/scala/twirl/home.scala.html:5:25: not found: value inputText[0m
+[0m[[0m[31merror[0m] [0m[0mEnter your gamer name: @inputText(taskForm("enter")) <!--@inputText <input type="text" name="enterName">--><br>[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/will/workspace/RockPaperSciccorsPlusTwo/src/main/scala/twirl/home.scala.html:5:35: not found: value taskForm[0m
+[0m[[0m[31merror[0m] [0m[0mEnter your gamer name: @inputText(taskForm("enter")) <!--@inputText <input type="text" name="enterName">--><br>[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/will/workspace/RockPaperSciccorsPlusTwo/src/main/scala/twirl/home.scala.html:5:59: not found: value inputText[0m
+[0m[[0m[31merror[0m] [0m[0mEnter your gamer name: @inputText(taskForm("enter")) <!--@inputText <input type="text" name="enterName">--><br>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
